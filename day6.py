@@ -22,6 +22,7 @@ for i in range(101):
 # !%
 input("press key for !%")
 clear()
+
 n = 0
 x = 1
 for i in range(51):
@@ -44,4 +45,3 @@ for i in range(1, 100, 2):
 for i in range(51):
     print(f"{even_list[i]} even")
     print(f"{odd_list[i]} odd")
-
