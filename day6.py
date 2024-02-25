@@ -42,6 +42,8 @@ for i in range(0, 101, 2):
     even_list.append(i)
 for i in range(1, 100, 2):
     odd_list.append(i)
-for i in range(51):
+for i in range(50):
     print(f"{even_list[i]} even")
     print(f"{odd_list[i]} odd")
+print("100 even")
+input("press key for quit")
