@@ -1,6 +1,6 @@
 #44 Programming questions Code
 #Very easy questions:
-#14) You are given an integer in the range of 0-10000, representing time in seconds. Convert it to time in the format of "HH:mm:ss".
+#2) You are given an integer in the range of 0-10000, representing time in seconds. Convert it to time in the format of "HH:mm:ss".
 
 import random
 
