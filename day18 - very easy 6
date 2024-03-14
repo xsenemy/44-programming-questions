@@ -1,6 +1,6 @@
 #44 Programming questions Code
 #Very easy questions:
-#18) Generate a list of 200 integers, each between 0-10. Order it by size ascending, then by size descending.
+#6) Generate a list of 200 integers, each between 0-10. Order it by size ascending, then by size descending.
 # Now order it by mode ascending, and mode descending. (Mode is the most frequently repeated number in a list).
 
 import random
