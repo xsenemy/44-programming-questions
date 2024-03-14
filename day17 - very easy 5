@@ -1,6 +1,6 @@
 #44 Programming questions Code
 #Very easy questions:
-#17) After entering an initial amount of money and an interest rate. calculate how much money there will be after [x] years.
+#5) After entering an initial amount of money and an interest rate. calculate how much money there will be after [x] years.
 # Assume interest is applied once a year.
 print("Whats up bro")
 money = int(input("Give me money: $"))
