@@ -1,6 +1,6 @@
 #44 Programming questions Code
 #Very easy questions:
-#15) Flip two coins, and note whether they land as two heads. two tails, or a head and a tail. Do this a thousand times
+#3) Flip two coins, and note whether they land as two heads. two tails, or a head and a tail. Do this a thousand times
 # and display the results as three percentages.
 
 import random
