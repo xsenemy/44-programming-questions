@@ -3,12 +3,15 @@
 #6) Utilizing the modulus operator, label all the even and odd numbers from 0-100. Do it again without the modulus
 # operator. And a third time without using if/else/switch. (Note: 99.5% of programming job applicants. and 80% of /g/,
 # will fail here)
+
 from os import system, name
+
 
 def clear():
     if name == "nt":
         return system("cls")
     return system("clear")
+
 
 # %
 input("press key for %")
