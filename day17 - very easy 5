@@ -2,6 +2,7 @@
 #Very easy questions:
 #5) After entering an initial amount of money and an interest rate. calculate how much money there will be after [x] years.
 # Assume interest is applied once a year.
+
 print("Whats up bro")
 money = int(input("Give me money: $"))
 interest = (float(input("How much yearly interest rate bro? %"))/100) + 1
