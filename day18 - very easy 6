@@ -47,7 +47,6 @@ for i in range(len(descending_mode[0])):
             descending_mode[0][j], descending_mode[0][i] = descending_mode[0][i], descending_mode[0][j]
             descending_mode[1][j], descending_mode[1][i] = descending_mode[1][i], descending_mode[1][j]
 
-
 print(f"numbers \t{numbers}", end="\n\n")
 print(f"ascending\t{ascending}")
 print(f"descending\t{descending}", end="\n\n")
