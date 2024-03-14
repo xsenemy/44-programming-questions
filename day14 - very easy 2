@@ -4,7 +4,6 @@
 
 import random
 
-
 time = int(input("Insert seconds (0-10000): "))
 # time = random.randint(0, 10000)
 seconds = 0
