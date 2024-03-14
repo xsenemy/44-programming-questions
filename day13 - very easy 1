@@ -1,6 +1,6 @@
 #44 Programming questions Code
 #Very easy questions:
-#13) Make a standard deck of cards. Shuffle the deck. and draw two cards at random. Display the two cards.
+#1) Make a standard deck of cards. Shuffle the deck. and draw two cards at random. Display the two cards.
 
 import random
 
