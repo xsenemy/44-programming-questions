@@ -41,18 +41,17 @@ print(ascii)
 print("44 Programming questions Code - Very Easy 10\nhttps://github.com/xsenemy/44-programming-questions\n")
 
 n1 = int(input("n: "))
-n2 = 0
+n2 = ""
 modulo = 10
 reverse_int = []
 while n1 > modulo/10:
     reverse_int.append(int((n1 % modulo)//(modulo/10)))
     modulo *= 10
-print(reverse_int)
+    
 for i in range(len(reverse_int)):
-    n2 += reverse_int[i] * int(modulo/100)
-    modulo /= 10
-print(n1, n2)
-if n1 == n2:
+    n2 += reverse_int[i]
+
+if n1 == int(n2):
     print(True)
 else:
     print(False)
