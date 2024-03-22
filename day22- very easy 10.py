@@ -45,7 +45,7 @@ n2 = ""
 modulo = 10
 reverse_int = []
 while n1 > modulo/10:
-    reverse_int.append(int((n1 % modulo)//(modulo/10)))
+    reverse_int.append(str(int((n1 % modulo)//(modulo/10))))
     modulo *= 10
     
 for i in range(len(reverse_int)):
